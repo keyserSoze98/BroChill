@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BroChill</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="enter_your_tweet">Enter your tweet</string>
+    <string name="post">Post</string>
+    <string name="home">Home</string>
+    <string name="already_registered">Already Registered?</string>
+</resources>
